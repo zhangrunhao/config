@@ -1,0 +1,11 @@
+--exclude=node_modules
+--exclude=.git
+--exclude=build
+--exclude=dist
+--exclude=*.min.js
+--exclude=*.bundle.js
+--exclude=*.json
+--output-format=e-ctags
+--tag-relative=yes
+--langmap=typescript:.ts.tsx
+--languages=Typescript
